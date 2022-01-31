@@ -1,6 +1,7 @@
 # awesome-gcx
 ## Resources
 ### Learning Resources
+* [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 #### Bicep
 #### Sharepoint Web Parts
 * [ReactJS](https://reactjs.org/)
