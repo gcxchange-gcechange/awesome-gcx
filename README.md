@@ -10,6 +10,9 @@
 ### Tools
 ### Tutorials / References
 #### Bicep
+ * [Best Practices page in the officials docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices)
+ * [Built-in funtions reference page](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions)
+ * [A reference implementation by MS](https://github.com/Azure/CanadaPubSecALZ)
 #### Sharepoint Web Parts
 * [Set up your SharePoint Framework development environment](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment)
 * [Build your first SharePoint client-side web part](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
