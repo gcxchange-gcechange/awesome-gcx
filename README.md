@@ -8,6 +8,7 @@
 * [TypeScript](https://www.typescriptlang.org/)
 #### Azure Function Apps
 ### Tools
+ * VScode {[repo](https://github.com/microsoft/vscode)} {[MS build download](https://code.visualstudio.com/)}
 ### Tutorials / References
 #### Bicep
  * [Best Practices page in the officials docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices)
