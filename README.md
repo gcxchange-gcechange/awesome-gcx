@@ -2,6 +2,7 @@
 ## Resources
 ### Learning Resources
 * [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+* [Trunk based development](https://trunkbaseddevelopment.com/)
 #### Bicep
 #### Sharepoint Web Parts
 * [ReactJS](https://reactjs.org/)
