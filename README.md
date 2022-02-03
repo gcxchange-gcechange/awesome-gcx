@@ -14,6 +14,7 @@
  * VScode {[repo](https://github.com/microsoft/vscode)} {[MS build download](https://code.visualstudio.com/)}
  * [MS tools for setting up windows dev environments](https://docs.microsoft.com/en-ca/windows/dev-environment/)
 ### Tutorials / References
+ * [30 seconds of code - collections of short code snippets](https://github.com/30-seconds/30-seconds-of-code)
 #### Bicep
  * [Best Practices page in the officials docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices)
  * [Built-in funtions reference page](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions)
