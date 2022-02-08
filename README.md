@@ -25,5 +25,6 @@
 * [SharePoint Framework Client-Side Web Part Samples & Tutorial Materials](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples)
 #### Azure Function Apps
  * [App service "things to know" docs, some linux-specific](https://github.com/Azure/app-service-linux-docs/blob/master/Things_You_Should_Know/things_you_should_know.md)
+ * [kudu docs - the engine behind azure app deployments](https://github.com/projectkudu/kudu/wiki)
 ### Further Reading
 * [Overview of the SharePoint Framework](https://docs.microsoft.com/en-gb/sharepoint/dev/spfx/sharepoint-framework-overview)
