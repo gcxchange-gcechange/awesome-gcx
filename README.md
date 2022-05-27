@@ -23,6 +23,7 @@
 * [Set up your SharePoint Framework development environment](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment)
 * [Build your first SharePoint client-side web part](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
 * [SharePoint Framework Client-Side Web Part Samples & Tutorial Materials](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples)
+* [SharePoint Framework Video Tutorial Series](https://www.youtube.com/playlist?list=PLGWG_rRY_j4OEE2JXIuB2UndePRR3AHsy)
 #### Azure Function Apps
  * [App service "things to know" docs, some linux-specific](https://github.com/Azure/app-service-linux-docs/blob/master/Things_You_Should_Know/things_you_should_know.md)
  * [kudu docs - the engine behind azure app deployments](https://github.com/projectkudu/kudu/wiki)
