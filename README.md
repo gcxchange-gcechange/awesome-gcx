@@ -13,8 +13,8 @@
 ### Tools
  * VScode {[repo](https://github.com/microsoft/vscode)} {[MS build download](https://code.visualstudio.com/)}
  * [MS tools for setting up windows dev environments](https://docs.microsoft.com/en-ca/windows/dev-environment/)
- * [NVM for Windows] (https://github.com/coreybutler/nvm-windows)
- * [How to install Node Version Manager (NVM) for Windows] (https://dev.to/skaytech/how-to-install-node-version-manager-nvm-for-windows-10-4nbi)
+ * [NVM for Windows](https://github.com/coreybutler/nvm-windows)
+ * [How to install Node Version Manager (NVM) for Windows](https://dev.to/skaytech/how-to-install-node-version-manager-nvm-for-windows-10-4nbi)
 ### Tutorials / References
  * [30 seconds of code - collections of short code snippets](https://github.com/30-seconds/30-seconds-of-code)
 #### Bicep
