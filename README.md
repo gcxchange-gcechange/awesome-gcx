@@ -10,6 +10,7 @@
 * [ReactJS](https://reactjs.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 #### Azure Function Apps
+* [Intro to Azure Functions](https://www.youtube.com/watch?v=zIfxkub7CLY)
 ### Tools
  * VScode {[repo](https://github.com/microsoft/vscode)} {[MS build download](https://code.visualstudio.com/)}
  * [MS tools for setting up windows dev environments](https://docs.microsoft.com/en-ca/windows/dev-environment/)
