@@ -35,4 +35,7 @@
 ### Accessibility Resources for Developers
 * [ Online BooK - Web Accessibility for Developers](https://pressbooks.library.torontomu.ca/wafd/)
 * [PDF BooK - Web Accessibility for Developers](./assets/Web-Accessibility-for-Developers.pdf)
+* [PDF BooK - Web Accessibility for Developers](https://docs.google.com/viewer?url=${https://github.com/gcxchange-gcechange/awesome-gcx/blob/3-add-accessibility-resources-for-developers/Web-Accessibility-for-Developers.pdf})
+
+
 
