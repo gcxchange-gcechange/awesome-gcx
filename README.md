@@ -32,3 +32,7 @@
  * [kudu docs - the engine behind azure app deployments](https://github.com/projectkudu/kudu/wiki)
 ### Further Reading
 * [Overview of the SharePoint Framework](https://docs.microsoft.com/en-gb/sharepoint/dev/spfx/sharepoint-framework-overview)
+### Accessibility Resources for Developers
+* [ Online BooK - Web Accessibility for Developers](https://pressbooks.library.torontomu.ca/wafd/)
+![PDF BooK - Web Accessibility for Developers](./assets/Web-Accessibility-for-Developers.pdf)
+
