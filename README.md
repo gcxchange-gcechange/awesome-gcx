@@ -33,9 +33,10 @@
 ### Further Reading
 * [Overview of the SharePoint Framework](https://docs.microsoft.com/en-gb/sharepoint/dev/spfx/sharepoint-framework-overview)
 ### Accessibility Resources for Developers
-* [ Online BooK - Web Accessibility for Developers](https://pressbooks.library.torontomu.ca/wafd/)
+* [ Online BooK - Web Accessibility for Developers](https://pressbooks.library.torontomu.ca/wafd/){:target="_blank"}
 * [PDF BooK - Web Accessibility for Developers](https://nbviewer.org/github/gcxchange-gcechange/awesome-gcx/blob/main/Web-Accessibility-for-Developers.pdf)
 * [ESDC Self-Paced Web Accessibility Course](https://bati-itao.github.io/learning/esdc-self-paced-web-accessibility-course/index.html)
+* 
 
 
 
