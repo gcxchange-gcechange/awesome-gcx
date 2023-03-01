@@ -35,6 +35,7 @@
 ### Accessibility Resources for Developers
 * [ Online BooK - Web Accessibility for Developers](https://pressbooks.library.torontomu.ca/wafd/)
 * [PDF BooK - Web Accessibility for Developers](./assets/Web-Accessibility-for-Developers.pdf)
+* [ESDC Self-Paced Web Accessibility Course](https://bati-itao.github.io/learning/esdc-self-paced-web-accessibility-course/index.html)
 
 
 
