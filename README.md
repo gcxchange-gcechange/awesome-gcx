@@ -27,6 +27,7 @@
 * [Build your first SharePoint client-side web part](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
 * [SharePoint Framework Client-Side Web Part Samples & Tutorial Materials](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples)
 * [SharePoint Framework Video Tutorial Series](https://www.youtube.com/playlist?list=PLGWG_rRY_j4OEE2JXIuB2UndePRR3AHsy)
+* [Easiest way to get the GUID of SharePoint feature](https://ganeshsanapblogs.wordpress.com/2020/12/03/easiest-way-to-get-the-guid-of-sharepoint-feature/)
 #### Azure Function Apps
  * [App service "things to know" docs, some linux-specific](https://github.com/Azure/app-service-linux-docs/blob/master/Things_You_Should_Know/things_you_should_know.md)
  * [kudu docs - the engine behind azure app deployments](https://github.com/projectkudu/kudu/wiki)
