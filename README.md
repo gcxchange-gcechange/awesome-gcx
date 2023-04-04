@@ -33,3 +33,16 @@
  * [kudu docs - the engine behind azure app deployments](https://github.com/projectkudu/kudu/wiki)
 ### Further Reading
 * [Overview of the SharePoint Framework](https://docs.microsoft.com/en-gb/sharepoint/dev/spfx/sharepoint-framework-overview)
+### Accessibility 
+#### Accessibility Resources for Developers
+* [Online BooK - Web Accessibility for Developers](https://pressbooks.library.torontomu.ca/wafd/)
+* [PDF BooK - Web Accessibility for Developers](https://nbviewer.org/github/gcxchange-gcechange/awesome-gcx/blob/main/Web-Accessibility-for-Developers.pdf)
+* [ESDC Self-Paced Web Accessibility Course](https://bati-itao.github.io/learning/esdc-self-paced-web-accessibility-course/index.html)
+* [HTML Semantics and Accessibility Cheat Sheet](https://nbviewer.org/github/gcxchange-gcechange/awesome-gcx/blob/main/HTML-Semantics-And-Accessibility-Cheat-Sheet.pdf)
+#### Screen reader Resources
+* [Keyboard Shortcuts for NVDA](https://nbviewer.org/github/gcxchange-gcechange/awesome-gcx/blob/fa9d85f7ce8440c7d8d2bd5314d37adb5ebbfe82/Keyboard-Shortcuts-for-NVDA.pdf)
+* [Keyboard Shortcuts for JAWS](https://nbviewer.org/github/gcxchange-gcechange/awesome-gcx/blob/fa9d85f7ce8440c7d8d2bd5314d37adb5ebbfe82/Keyboard-Shortcuts-for-JAWS.pdf)
+
+
+
+
