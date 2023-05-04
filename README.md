@@ -22,6 +22,8 @@
  * [Best Practices page in the officials docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices)
  * [Built-in funtions reference page](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions)
  * [A reference implementation by MS](https://github.com/Azure/CanadaPubSecALZ)
+#### React
+ * [React js in 3.5 hours | Full beginners tutorial](https://www.youtube.com/watch?v=ABQLwlE8MUA)
 #### Sharepoint Web Parts
 * [Set up your SharePoint Framework development environment](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment)
 * [Build your first SharePoint client-side web part](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
