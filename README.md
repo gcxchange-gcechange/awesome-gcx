@@ -24,6 +24,7 @@
  * [A reference implementation by MS](https://github.com/Azure/CanadaPubSecALZ)
 #### React
  * [React js in 3.5 hours | Full beginners tutorial](https://www.youtube.com/watch?v=ABQLwlE8MUA)
+ * [Data Fetching & Other Side Effects](https://vimeo.com/803231891/fc4884b1ba)
 #### Sharepoint Web Parts
 * [Set up your SharePoint Framework development environment](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment)
 * [Build your first SharePoint client-side web part](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
